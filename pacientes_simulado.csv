@@ -1,0 +1,9 @@
+rut,nombre,estado_salud,tratamiento,ultima_actualizacion,proxima_visita_medica,notificaciones,educacion
+10422842-5,Paciente 1,Estable,Monitoreo cardiaco,2025-09-08 00:49,2025-09-09 23:49,"['En espera de evaluación médica', 'Estudio imagenológico agendado', 'Preparación para alta médica']",Evite traer alimentos sin autorización.
+21250738-1,Paciente 2,Crítico,Monitoreo cardiaco,2025-09-08 00:49,2025-09-10 12:49,['Preparación para alta médica'],Solicite ayuda al personal ante cualquier duda.
+21872373-2,Paciente 3,En observación,Terapia respiratoria,2025-09-07 09:49,2025-09-09 06:49,['Examen de sangre en proceso'],Solicite ayuda al personal ante cualquier duda.
+15841717-7,Paciente 4,En observación,Monitoreo cardiaco,2025-09-07 02:49,2025-09-10 13:49,['Estudio imagenológico agendado'],Lávese las manos antes y después de la visita.
+14365383-0,Paciente 5,En observación,Antibióticos,2025-09-08 10:49,2025-09-10 10:49,"['Dosis de medicamento administrada', 'Examen de sangre en proceso', 'Estudio imagenológico agendado']",Evite traer alimentos sin autorización.
+23658084-0,Paciente 6,Crítico,Terapia respiratoria,2025-09-08 16:49,2025-09-09 13:49,"['Estudio imagenológico agendado', 'Dosis de medicamento administrada']",Respete los horarios y turnos del personal.
+13937619-7,Paciente 7,En observación,Monitoreo cardiaco,2025-09-08 10:49,2025-09-09 11:49,"['Estudio imagenológico agendado', 'Preparación para alta médica', 'Examen de sangre en proceso']",Solicite ayuda al personal ante cualquier duda.
+16066573-6,Paciente 8,En recuperación,Reposo y control,2025-09-07 12:49,2025-09-09 15:49,"['Paciente trasladado a sala intermedia', 'Examen de sangre en proceso', 'Dosis de medicamento administrada']",Respete los horarios y turnos del personal.
